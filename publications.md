@@ -34,7 +34,7 @@ Tobon-Gomez C, **Geers AJ**, Peters J, Weese J, Pinto K, Karim R, Ammar M, Daoud
 [DOI](https://doi.org/10.1109/TMI.2015.2398818) | [Code](https://github.com/catactg/lasc) | [Dataset](http://www.cardiacatlas.org/challenges/left-atrium-segmentation-challenge/)
 
 **Geers AJ**, Larrabide I, Morales HG, Frangi AF. *Approximating hemodynamics of cerebral aneurysms with steady flow simulations.* Journal of Biomechanics, 47(1):178–185, 2014.<br>
-[DOI](https://doi.org/10.1016/j.jbiomech.2013.09.033) | [Animation](http://dx.doi.org/10.6084/m9.figshare.1066898)
+[DOI](https://doi.org/10.1016/j.jbiomech.2013.09.033) | [Code](https://github.com/ajgeers/frw) | [Animation](http://dx.doi.org/10.6084/m9.figshare.1066898)
 
 Larrabide I, Aguilar ML, Morales HG, **Geers AJ**, Kulcsár Z, Rüfenacht DA, Frangi AF. *Intra-aneurysmal pressure and flow changes induced by flow diverters: Relation to aneurysm size and shape.* American Journal of Neuroradiology, 34(4):816–822, 2013.<br>
 [DOI](https://doi.org/10.3174/ajnr.A3288)

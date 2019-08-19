@@ -1,0 +1,19 @@
+// Style links with underline instead of blue color 
+{
+  color: inherit;
+  text-decoration: underline;
+
+  &:hover{
+    text-decoration: underline;
+  }
+}
+
+// Remove underline from site title link 
+.link-title {
+  color: inherit;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

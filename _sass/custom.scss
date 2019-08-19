@@ -17,3 +17,12 @@ a {
     text-decoration: underline;
   }
 }
+
+//Remove border below h1 and h2 headings
+.markdown-body {
+  h1,
+  h2 {
+    padding-bottom: 0em;
+    border-bottom: none;
+  }
+}

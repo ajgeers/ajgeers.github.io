@@ -1,4 +1,4 @@
-<img src="/images/arjan.jpg" height="250" width="250" alt="Profile photo of Arjan Geers" title="Arjan Geers">
+<img class="profile-photo" src="/images/arjan.jpg" height="250" width="250" alt="Profile photo of Arjan Geers" title="Arjan Geers">
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec bibendum ex. Quisque sed vehicula sem. Integer auctor leo ac ligula porttitor, non laoreet diam placerat. Integer pellentesque interdum fringilla. Pellentesque sodales dui id tellus porttitor, id ullamcorper arcu aliquam. Pellentesque iaculis tempor posuere. Aenean a convallis mauris. Proin quis turpis sed libero fringilla rhoncus. Vestibulum non est vel quam fermentum auctor. Aenean dolor risus, posuere nec sem eget, convallis elementum nisl. Donec vitae turpis eget felis lacinia tempor. [List of my publications](publications.md)
 

@@ -1,7 +1,4 @@
-### Publications
-
-
-#### Journal papers
+### Journal papers
 
 Valen-Sendstad K, Bergersen AW, Shimogonya Y, Goubergrits L, Bruening J, Pallares J, Cito S, Piskin S, Pekkan K, **Geers AJ**, Larrabide L, Rapaka S, Mihalef V, Fu W, Qiao A, Jain K, Roller S, Mardal KA, Kamakoti R, Spirka T, Ashton N, Revell A, Aristokleous N, Houston JG, Tsuji M, Ishida F, Menon PG, Browne LD, Broderick S, Shojima M, Koizumi S, Barbour M, Aliseda A, Morales HG, Lefèvre T, Hodis S, Al-Smadi YM, Tran JS, Marsden AL, Vaippummadhom S, Einstein GA, Brown AG, Debus K, Niizuma K, Rashad S, Sugiyama SI, Owais Khan M, Updegrove AR, Shadden SC, Cornelissen BMW, Majoie CBLM, Berg P, Saalfield S, Kono K, Steinman DA. *Real-world variability in the prediction of intracranial aneurysm wall shear stress: The 2015 International Aneurysm CFD Challenge.* Cardiovascular Engineering and Technology 9(4): 544–564, 2018. DOI: [10.1007/s13239-018-00374-2](https://doi.org/10.1007/s13239-018-00374-2).
 
@@ -42,7 +39,7 @@ Larrabide I, Villa-Uriol MC, Cardenes R, Barbarito V, Carotenuto L, **Geers AJ**
 Villa-Uriol MC, Larrabide I, Pozo JM, Kim M, Camara O, De Craene M, Zhang C, **Geers AJ**, Morales HG, Bogunovic H, Cardenes R, Frangi AF. *Toward integrated management of cerebral aneurysms.* Philosophical Transactions. Series A, Mathematical, Physical, and Engineering Sciences, 368(1921):2961–2982, 2010. DOI: [10.1098/rsta.2010.0095](https://doi.org/10.1098/rsta.2010.0095).
 
 
-#### Conference papers and abstracts
+### Conference papers and abstracts
 
 Garcia-Canadilla P, Zhang C, **Geers AJ**, Tobon-Gomez C, Baliceviv V, Cook AC, Bijnens B. *Analysis of cardiac microstructure and myocyte aggregates organization in fetal hearts with congenital heart disease by X-ray phase contrast synchrotron imaging.* World Congress of Pediatric Cardiology & Cardiac Surgery (WCPCCS), Barcelona, Spain, 2017.
 
@@ -87,7 +84,7 @@ Villa-Uriol MC, Larrabide I, Pozo JM, Bogunovic H, Omedas P, Barbarito V, Carote
 **Geers AJ**, Radaelli AG, Majoie CB, Gratama van Andel HAF, VanBavel E, Frangi AF. *Quantitative sensitivity analysis to image modality of computed hemodynamics in intracranial aneurysms.* International Intracranial Stent Meeting (ICS), Ankara, Turkey, 2008.
 
 
-#### Theses
+### Theses
 
 **Geers AJ**. *Hemodynamic modeling of cerebral aneurysms.* PhD thesis. Universitat Pompeu Fabra, Barcelona, Spain, 2014. [View PDF](https://www.dropbox.com/s/kfsgr5d545uvcyo/2014_geers_phdthesis.pdf?dl=0).
 
@@ -96,7 +93,7 @@ Villa-Uriol MC, Larrabide I, Pozo JM, Bogunovic H, Omedas P, Barbarito V, Carote
 **Geers AJ**. *Detection of the topology of coronary vessel trees.* BSc thesis. University of Amsterdam, The Netherlands, 2006.
 
 
-#### Other
+### Other
 
 Hoskins P, Doyle BJ, Conlisk N, **Geers AJ**. *Patient specific modelling.* Hoskins PR, Lawford PV, Doyle BJ (editors). Cardiovascular Biomechanics, Chapter~11, Springer, 2016. (Book chapter)
 

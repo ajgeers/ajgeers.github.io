@@ -1,5 +1,9 @@
 <img class="profile-photo" src="/images/arjan.jpg" height="250" width="250" alt="Profile photo of Arjan Geers" title="Arjan Geers">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras nec bibendum ex. Quisque sed vehicula sem. Integer auctor leo ac ligula porttitor, non laoreet diam placerat. Integer pellentesque interdum fringilla. Pellentesque sodales dui id tellus porttitor, id ullamcorper arcu aliquam. Pellentesque iaculis tempor posuere. Aenean a convallis mauris. Proin quis turpis sed libero fringilla rhoncus. Vestibulum non est vel quam fermentum auctor. Aenean dolor risus, posuere nec sem eget, convallis elementum nisl. Donec vitae turpis eget felis lacinia tempor. [List of my publications](publications.md)
+I am a researcher, software developer, and data scientist. I have just returned from a year of traveling through South America and Japan, and I'm currently looking for opportunities in The Netherlands.
 
-Praesent tincidunt sodales felis, vel malesuada ex. Sed convallis consectetur magna. Curabitur id dui dui. Quisque hendrerit metus sed purus vehicula iaculis vitae eu ex. Sed lobortis non velit ut maximus. Nullam ut elit quam. Sed mollis, arcu in tempus dignissim, diam nibh pretium tellus, eu lacinia dui nunc non velit. Sed elementum tortor vitae velit ultricies, in volutpat est dignissim. Etiam pulvinar hendrerit justo ut rhoncus. Pellentesque sed eros et purus commodo consectetur.
+After studying Physics, I did a PhD in Biomedical Engineering. My research focused on computational modeling of blood flow in brain arteries and understanding the role of blood flow in the development and treatment of aneurysms. [Here is a list of my publications](publications.md).
+
+For the last few years, I led a team of software developers and data scientists at an Earth Observation startup. Together, we built solutions that helped our users gain insight from satellite imagery and other geospatial data to monitor and intervene in natural and human-made disasters. I worked in many aspects of product development, from user research to data analysis to web development.
+
+You can reach me on [Twitter](https://twitter.com/ajgeers), [GitHub](https://github.com/ajgeers), or by email at ajgeers@gmail.com. 

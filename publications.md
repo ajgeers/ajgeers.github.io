@@ -115,10 +115,10 @@ Villa-Uriol MC, Larrabide I, Pozo JM, Bogunovic H, Omedas P, Barbarito V, Carote
 
 ### Other
 
-Hoskins P, Doyle BJ, Conlisk N, **Geers AJ**. *Patient specific modelling.* Hoskins PR, Lawford PV, Doyle BJ (editors). Cardiovascular Biomechanics, Chapter~11, Springer, 2016. (Book chapter)
+Hoskins P, Doyle BJ, Conlisk N, **Geers AJ**. *Patient specific modelling.* Hoskins PR, Lawford PV, Doyle BJ (editors). Cardiovascular Biomechanics, Chapter 11, Springer, 2016. (Book chapter)
 
 **Geers AJ**. *Patient-specific computational hemodynamics of intracranial aneurysms from 3D rotational angiography and CT angiography: An in vivo reproducibility study.* American Journal of Neuroradiology News Digest, December, 2014. (Newsletter article)
 
 **Geers AJ**, Larrabide I, Radaelli AG, Bogunovic H, Kim M, Frangi AF, Gratama van Andel HAF, Majoie CB, VanBavel E. *Reply to 'Identifying "truth" in computational fluid dynamics research'.* American Journal of Neuroradiology, 32(6):E123-E123, 2011. (Letter)
 
-Villa-Uriol MC, Larrabide I, Pozo JM, Kim M, De Craene M, Camara O, Zhang C, **Geers AJ**, Bogunovic H, Morales HG, Frangi AF. *Cerebral aneurysms: A patient-specific and image-based management pipeline.* Tavares JMRS, Jorge RN (editors). Computational Vision and Medical Image Processing: Recent Trends, Chapter~19, Springer, 2011. (Book chapter)
+Villa-Uriol MC, Larrabide I, Pozo JM, Kim M, De Craene M, Camara O, Zhang C, **Geers AJ**, Bogunovic H, Morales HG, Frangi AF. *Cerebral aneurysms: A patient-specific and image-based management pipeline.* Tavares JMRS, Jorge RN (editors). Computational Vision and Medical Image Processing: Recent Trends, Chapter 19, Springer, 2011. (Book chapter)

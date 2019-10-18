@@ -52,7 +52,7 @@ Larrabide I, Villa-Uriol MC, Cardenes R, Barbarito V, Carotenuto L, **Geers AJ**
 [DOI](https://doi.org/10.1016/j.cmpb.2012.05.006)
 
 **Geers AJ**, Larrabide I, Radaelli AG, Bogunovic H, Kim M, Gratama van Andel HAF, Majoie CB, VanBavel E, Frangi AF. *Patient-specific computational hemodynamics of intracranial aneurysms from 3D rotational angiography and CT angiography: An in vivo reproducibility study.* American Journal of Neuroradiology, 32(3):581–586, 2011.<br>
-[DOI](https://doi.org/10.3174/ajnr.A2306) | [Code](https://github.com/ajgeers/3dracta) | [Data](http://dx.doi.org/10.6084/m9.figshare.1354056)
+[DOI](https://doi.org/10.3174/ajnr.A2306) | [Code](https://github.com/ajgeers/3dracta) | [Dataset](http://dx.doi.org/10.6084/m9.figshare.1354056)
 
 Villa-Uriol MC, Larrabide I, Pozo JM, Kim M, Camara O, De Craene M, Zhang C, **Geers AJ**, Morales HG, Bogunovic H, Cardenes R, Frangi AF. *Toward integrated management of cerebral aneurysms.* Philosophical Transactions. Series A, Mathematical, Physical, and Engineering Sciences, 368(1921):2961–2982, 2010.<br>
 [DOI](https://doi.org/10.1098/rsta.2010.0095)

@@ -4,8 +4,8 @@ I am a Software Engineer at [Planet](https://www.planet.com) where we use space 
 
 After studying Physics at the [University of Amsterdam](https://www.uva.nl), I did a PhD in Computational Biomedicine at the [Pompeu Fabra University](https://www.upf.edu/en/) in Barcelona. My research focused on the modeling of blood flow in brain arteries and understanding the role of blood flow in the development and treatment of aneurysms. [Here is a list of my publications](publications.md).
 
-I then joined an Earth Observation [startup](https://astrosat.net) in Edinburgh where I led a team of software developers and data scientists. We built solutions that helped our users gain insight from satellite imagery and other geospatial data to monitor and intervene in natural and human-made disasters.
+I then joined an Earth Observation [startup](https://astrosat.net) in Edinburgh, where I led a team of software developers and data scientists. We built solutions that helped our users gain insight from satellite imagery and other geospatial data to monitor and intervene in natural and human-made disasters.
 
-After a year of traveling through South America and Japan, I returned to the Netherlands and joined [VanderSat](https://vandersat.com) as a Software Engineer, developing satellite data products for monitoring the global water and food crisis, which then became Planet.
+After a year of traveling through South America and Japan, I returned to the Netherlands and joined [VanderSat](https://vandersat.com) - which later became Planet - as a Software Engineer, developing satellite data products for monitoring the global water and food crisis.
 
 You can reach me on [Twitter](https://twitter.com/ajgeers), [GitHub](https://github.com/ajgeers), or by email at <ajgeers@gmail.com>.

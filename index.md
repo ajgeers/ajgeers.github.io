@@ -1,9 +1,11 @@
-<img class="profile-photo" src="/images/arjan.jpg" height="250" width="250" alt="Profile photo of Arjan Geers" title="Arjan Geers">
+<img class="profile-photo" src="/images/arjan.jpg" height="375" width="250" alt="Arjan among frailejones in the Los Nevados National Natural Park in Colombia" title="Arjan Geers">
 
-I am a researcher, software developer, and data scientist. I have just returned from a year of traveling through South America and Japan, and I'm currently looking for opportunities in The Netherlands.
+I am a Software Engineer at [Planet](https://www.planet.com) where we use space to help life on Earth.
 
-After studying Physics, I did a PhD in Computational Biomedicine. My research focused on the modeling of blood flow in brain arteries and understanding the role of blood flow in the development and treatment of aneurysms. [Here is a list of my publications](publications.md).
+After studying Physics at the [University of Amsterdam](https://www.uva.nl), I did a PhD in Computational Biomedicine at the [Pompeu Fabra University](https://www.upf.edu/en/) in Barcelona. My research focused on the modeling of blood flow in brain arteries and understanding the role of blood flow in the development and treatment of aneurysms. [Here is a list of my publications](publications.md).
 
-In my last role, I led a team of software developers and data scientists at an Earth Observation startup. Together, we built solutions that helped our users gain insight from satellite imagery and other geospatial data to monitor and intervene in natural and human-made disasters. I worked in many aspects of product development, from user research to data analysis to web development.
+I then joined an Earth Observation [startup](https://astrosat.net) in Edinburgh where I led a team of software developers and data scientists. We built solutions that helped our users gain insight from satellite imagery and other geospatial data to monitor and intervene in natural and human-made disasters.
 
-You can reach me on [Twitter](https://twitter.com/ajgeers), [GitHub](https://github.com/ajgeers), or by email at <ajgeers@gmail.com>. 
+After a year of traveling through South America and Japan, I returned to the Netherlands and joined [VanderSat](https://vandersat.com) as a Software Engineer, developing satellite data products for monitoring the global water and food crisis, which then became Planet.
+
+You can reach me on [Twitter](https://twitter.com/ajgeers), [GitHub](https://github.com/ajgeers), or by email at <ajgeers@gmail.com>.

@@ -1,4 +1,4 @@
-<img class="profile-photo" src="/images/arjan.jpg" height="375" width="250" alt="Arjan among frailejones in the Los Nevados National Natural Park in Colombia" title="Arjan Geers">
+<img class="profile-photo" src="/assets/images/arjan.jpg" height="375" width="250" alt="Arjan among frailejones in the Los Nevados National Natural Park in Colombia" title="Arjan Geers">
 
 I am a Software Engineer at [Planet](https://www.planet.com) where we use space to help life on Earth.
 

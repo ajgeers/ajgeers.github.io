@@ -106,7 +106,7 @@ Villa-Uriol MC, Larrabide I, Pozo JM, Bogunovic H, Omedas P, Barbarito V, Carote
 ### Theses
 
 **Geers AJ**. *Hemodynamic modeling of cerebral aneurysms.* PhD thesis. Universitat Pompeu Fabra, Barcelona, Spain, 2014.<br>
-[PDF](https://www.dropbox.com/s/kfsgr5d545uvcyo/2014_geers_phdthesis.pdf?dl=0)
+<a href="/assets/docs/phd_thesis.pdf" target="_blank">PDF</a>
 
 **Geers AJ**. *Computational analysis of the morphology and hemodynamics of intracranial aneurysms from 3DRA and CTA images: Quantitative sensitivity analysis.* MSc thesis. University of Amsterdam, The Netherlands, 2008.
 

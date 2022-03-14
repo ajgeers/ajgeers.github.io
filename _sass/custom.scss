@@ -1,4 +1,4 @@
-// Style links with underline instead of blue color 
+// Style links with underline instead of blue color
 a {
   color: inherit;
   text-decoration: underline;
@@ -8,7 +8,12 @@ a {
   }
 }
 
-// Remove underline from site title link 
+// Round image corners
+img {
+  border-radius: 2%;
+}
+
+// Remove underline from site title link
 .link-title {
   color: inherit;
   text-decoration: none;

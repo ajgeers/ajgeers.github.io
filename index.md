@@ -8,4 +8,4 @@ I then joined an Earth Observation [startup](https://astrosat.net) in Edinburgh,
 
 After a year of traveling through South America and Japan, I returned to the Netherlands and joined [VanderSat](https://vandersat.com) - which later became Planet - as a Software Engineer, developing satellite data products for monitoring the global water and food crisis.
 
-You can reach me on [Twitter](https://twitter.com/ajgeers), [GitHub](https://github.com/ajgeers), or by email at <ajgeers@gmail.com>.
+You can reach me by email at <ajgeers@gmail.com>.
